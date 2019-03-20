@@ -1,0 +1,16 @@
+.foodlist{
+    display: flex; 
+    flex-flow: row wrap;
+    align-content: center;
+}
+
+.spacing{
+    border: solid coral 1px;
+    border-style: solid 10px ;
+}
+
+
+.head{
+justify-content: space-around;
+justify-content: center;
+}
